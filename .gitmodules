@@ -1,3 +1,6 @@
 [submodule "images"]
 	path = images
 	url = https://github.com/chriskiehl/GooeyImages.git
+[submodule "GooeyExamples"]
+	path = GooeyExamples
+	url = https://github.com/chriskiehl/GooeyExamples.git
